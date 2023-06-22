@@ -4,7 +4,13 @@
       "name": "danish",
       "email": "danish@gmail.com",
       "password": "danish@123",
-      "id": 2
+      "id": 1
+    },
+    {
+        "name": "zishan",
+        "email": "zishan@gmail.com",
+        "password": "zishan@123",
+        "id": 2
     }
   ],
   "products": [
