@@ -27,15 +27,6 @@
       "id": 2
     },
     {
-      "name": "HP Laptop",
-      "price": "50000",
-      "category": "Laptop",
-      "color": "black",
-      "description": "Hp laptop for student and professionals",
-      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
-      "id": 3
-    },
-    {
       "name": "HP Laptop 2",
       "price": "45000",
       "category": "Laptop",
@@ -87,6 +78,12 @@
       "email": "danish@gmail.com",
       "password": "danish@123",
       "id": 1
+    },
+    {
+      "name": "",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 2
     }
   ],
   "cart": [
